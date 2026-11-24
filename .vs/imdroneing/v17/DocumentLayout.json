@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:ImageLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:DroneController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:RendererUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:RendererUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:DroneController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:ImageLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00E2C8C5-C108-45E3-AB72-CCF89E4D2887}|imdroneing.vcxproj|solutionrelative:Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RendererUI.cpp",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.cpp",
+              "RelativeDocumentMoniker": "RendererUI.cpp",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.cpp",
+              "RelativeToolTip": "RendererUI.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowJEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T10:48:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DroneController.cpp",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.cpp",
+              "RelativeDocumentMoniker": "DroneController.cpp",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.cpp",
+              "RelativeToolTip": "DroneController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T10:47:16.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.cpp",
+              "RelativeDocumentMoniker": "ImageLoader.cpp",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.cpp",
+              "RelativeToolTip": "ImageLoader.cpp",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAkwO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T10:40:52.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RendererUI.h",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.h",
+              "RelativeDocumentMoniker": "RendererUI.h",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\RendererUI.h",
+              "RelativeToolTip": "RendererUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T10:39:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DroneController.h",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.h",
+              "RelativeDocumentMoniker": "DroneController.h",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\DroneController.h",
+              "RelativeToolTip": "DroneController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T10:39:42.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageLoader.h",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.h",
+              "RelativeDocumentMoniker": "ImageLoader.h",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\ImageLoader.h",
+              "RelativeToolTip": "ImageLoader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T10:39:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Types.h",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\Types.h",
+              "RelativeDocumentMoniker": "Types.h",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\Types.h",
+              "RelativeToolTip": "Types.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T10:38:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\asora\\Desktop\\working\\\uCF54\uB529\\drone_show\\imdroneing\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T10:37:02.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
